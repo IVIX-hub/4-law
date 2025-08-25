@@ -1,5 +1,5 @@
 # "4-law" Privacy Policy
-"4-Law" Privacy Policy
+
 Last Updated: August 25, 2025
 
 Thank you for using "4-Law". Your privacy is of utmost importance to us. This policy clearly explains how we handle your information in the most minimal way possible.
@@ -41,8 +41,8 @@ Email: yijing.z@vip.163.com
 
 
 
+# 《肆律》隐私政策
 
-《肆律》隐私政策
 最后更新日期：2025年8月25日
 
 感谢您使用《肆律》。您的隐私对我们至关重要。本政策清晰说明了我们如何极简地处理您的信息。
